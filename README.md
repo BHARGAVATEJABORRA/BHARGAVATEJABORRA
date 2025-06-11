@@ -91,6 +91,7 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Model%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+==
 </p>
 
 ### 🧮 Databases
@@ -109,10 +110,12 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/REST-FF6F00?style=for-the-badge&logo=rest&logoColor=white"/>
+
 </p>
 
 ### 🧪 Testing & Monitoring
