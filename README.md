@@ -1,15 +1,19 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&repeat=false&width=435&lines=Bhargava+Teja+Borra" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=4169E1&repeat=true&width=700&height=45&vCenter=true&size=24&lines=Cloud+Engineer+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI;Infrastructure+as+Code+with+Terraform+%26+Ansible;Securing+Cloud+with+IAM+%26+Encryption;Certified+Cloud+Professional+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
-### 👋 About Me
+<details open>
+<summary><h3>👋 About Me</h3></summary>
+
 I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS, Azure, GCP**, and **Oracle Cloud Infrastructure**. I specialize in infrastructure automation, DevOps, and cloud security. Passionate about building scalable cloud solutions that make a difference.
+
+</details>
 
 ---
 
-### 📬 Connect with Me
+<details open>
+<summary><h3>📬 Connect with Me</h3></summary>
 
 <p align="center">
   <a href="mailto:bhargavateja.borra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -19,11 +23,29 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <a href="https://www.instagram.com/bhargav_bh__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+</details>
+
+<details open>
+<summary><h3>🏆 Certifications</h3></summary>
+
+| Certification Name | Issuer | Status | Expiration Date |
+| --- | --- | --- | --- |
+| AWS Solutions Architect Associate | Amazon Web Services | Active | N/A |
+| Azure Developer Associate | Microsoft | Active | N/A |
+| Azure Fundamentals | Microsoft | Active | N/A |
+| Azure AI Fundamentals | Microsoft | Active | N/A |
+| Oracle Cloud Infrastructure Foundations | Oracle | Active | N/A |
+
+</details>
+
 ---
 
-## 🛠️ Tech Stack
+<details open>
+<summary><h2>🛠️ Tech Stack</h2></summary>
 
-### ☁️ Cloud Platforms & DevOps
+<details open>
+<summary><h3>☁️ Cloud Platforms &amp; DevOps</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -40,7 +62,11 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
 </p>
 
-### 🔄 Infrastructure as Code & Automation
+</details>
+
+<details open>
+<summary><h3>🔄 Infrastructure as Code &amp; Automation</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
@@ -50,7 +76,11 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 📦 Containerization & CI/CD
+</details>
+
+<details open>
+<summary><h3>📦 Containerization &amp; CI/CD</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -60,7 +90,11 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
-### 🧑‍💻 Programming Languages & Tools
+</details>
+
+<details open>
+<summary><h3>🧑‍💻 Programming Languages &amp; Tools</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -76,7 +110,11 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### 📊 Data Science & AI
+</details>
+
+<details open>
+<summary><h3>📊 Data Science &amp; AI</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -84,17 +122,24 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### 🤖 Generative AI
+</details>
+
+<details open>
+<summary><h3>🤖 Generative AI</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Model%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-==
 </p>
 
-### 🧮 Databases
+</details>
+
+<details open>
+<summary><h3>🧮 Databases</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -104,21 +149,27 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 🌐 Web Frameworks
+</details>
+
+<details open>
+<summary><h3>🌐 Web Frameworks</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/REST-FF6F00?style=for-the-badge&logo=rest&logoColor=white"/>
-
 </p>
 
-### 🧪 Testing & Monitoring
+</details>
+
+<details open>
+<summary><h3>🧪 Testing &amp; Monitoring</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mockito-4951F4?style=for-the-badge&logo=mockito&logoColor=white"/>
@@ -127,7 +178,11 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
 </p>
 
-### 🖥️ Operating Systems
+</details>
+
+<details open>
+<summary><h3>🖥️ Operating Systems</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -135,7 +190,11 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 🔧 Development Tools
+</details>
+
+<details open>
+<summary><h3>🔧 Development Tools</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -144,23 +203,23 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-
-
+</details>
 
 <p align="middle">
   <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
+</details>
 
+---
 
-
-## Recent GitHub Activity ✅
-
+<details open>
+<summary><h2>Recent GitHub Activity ✅</h2></summary>
 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
- 
+
   <img src="https://streak-stats.demolab.com/?user=BHARGAVATEJABORRA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&custom_title=Bhargava's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
@@ -185,5 +244,4 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARGAVATEJABORRA&theme=highcontrast&hide_border=true">
 </div>
 
-  
-
+</details>
