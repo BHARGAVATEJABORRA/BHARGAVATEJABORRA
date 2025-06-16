@@ -4,12 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=4169E1&repeat=true&width=700&height=45&vCenter=true&size=24&lines=Cloud+Engineer+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI;Infrastructure+as+Code+with+Terraform+%26+Ansible;Securing+Cloud+with+IAM+%26+Encryption;Certified+Cloud+Professional+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
-### 👋 About Me
+<details>
+<summary><strong>👋 About Me</strong></summary>
+
 I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS, Azure, GCP**, and **Oracle Cloud Infrastructure**. I specialize in infrastructure automation, DevOps, and cloud security. Passionate about building scalable cloud solutions that make a difference.
+
+</details>
 
 ---
 
-### 📬 Connect with Me
+<details>
+<summary><strong>📬 Connect with Me</strong></summary>
 
 <p align="center">
   <a href="mailto:bhargavateja.borra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -19,9 +24,22 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <a href="https://www.instagram.com/bhargav_bh__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+### Certifications
+
+| Certification | Issuer | Status | Expiration Date |
+| ------------- | ------ | ------ | --------------- |
+| <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/> | Amazon Web Services | <img src="https://img.shields.io/badge/Active-%E2%9C%94%EF%B8%8F-brightgreen?style=for-the-badge" alt="Active"/> | Mar/2026 |
+| <img src="https://img.shields.io/badge/Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Developer Associate"/> | Microsoft | <img src="https://img.shields.io/badge/Expired-%E2%9D%8C-red?style=for-the-badge" alt="Expired"/> | Mar/2024 |
+| <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/> | Microsoft | <img src="https://img.shields.io/badge/Active-%E2%9C%94%EF%B8%8F-brightgreen?style=for-the-badge" alt="Active"/> | No Expiry |
+| <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0C5DDB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Fundamentals"/> | Microsoft | <img src="https://img.shields.io/badge/Active-%E2%9C%94%EF%B8%8F-brightgreen?style=for-the-badge" alt="Active"/> | No Expiry |
+| <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Foundations"/> | Oracle | <img src="https://img.shields.io/badge/Active-%E2%9C%94%EF%B8%8F-brightgreen?style=for-the-badge" alt="Active"/> | No Expiry |
+
+</details>
+
 ---
 
-## 🛠️ Tech Stack
+<details>
+<summary><strong>🛠️ Tech Stack</strong></summary>
 
 ### ☁️ Cloud Platforms & DevOps
 <p>
@@ -151,10 +169,10 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
+</details>
 
-
-
-## Recent GitHub Activity ✅
+<details>
+<summary><strong>Recent GitHub Activity ✅</strong></summary>
 
 
 <h3 align="center">Git Stats</h3>
@@ -185,5 +203,5 @@ I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARGAVATEJABORRA&theme=highcontrast&hide_border=true">
 </div>
 
-  
 
+</details>
