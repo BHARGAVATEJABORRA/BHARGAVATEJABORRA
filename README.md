@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&repeat=false&width=435&lines=Bhargava+Teja+Borra" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=4169E1&repeat=true&width=700&height=45&vCenter=true&size=24&lines=Cloud+Engineer+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI;Infrastructure+as+Code+with+Terraform+%26+Ansible;Securing+Cloud+with+IAM+%26+Encryption;Certified+Cloud+Professional+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=4169E1&repeat=true&width=700&height=45&vCenter=true&size=24&lines=Software+Engineer+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI;Infrastructure+as+Code+with+Terraform+%26+Ansible;Securing+Cloud+with+IAM+%26+Encryption;Certified+Cloud+Professional+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
 <details>
