@@ -7,7 +7,7 @@
 <details>
 <summary><strong>👋 About Me</strong></summary>
 
-I'm **Bhargava Teja Borra**, a **Cloud Engineer** with strong expertise in **AWS, Azure, GCP**, and **Oracle Cloud Infrastructure**. I specialize in infrastructure automation, DevOps, and cloud security. Passionate about building scalable cloud solutions that make a difference.
+I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **Cloud**. I specialize in infrastructure automation, DevOps, and cloud security. Passionate about building scalable cloud solutions that make a difference.
 
 </details>
 
