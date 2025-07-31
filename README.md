@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=4169E1&repeat=true&width=700&height=45&vCenter=true&size=24&lines=Software+Engineer+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI;Infrastructure+as+Code+with+Terraform+%26+Ansible;Securing+Cloud+with+IAM+%26+Encryption;Certified+Cloud+Professional+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
-<details>
+<details open >
 <summary><strong>👋 About Me</strong></summary>
 
 I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **Cloud**. I specialize in infrastructure automation, DevOps, and cloud security. Passionate about building scalable cloud solutions that make a difference.
@@ -13,7 +13,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 ---
 
-<details>
+<details open >
 <summary><strong>📬 Connect with Me</strong></summary>
 
 <p align="center">
@@ -38,7 +38,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 ---
 
-<details>
+<details open >
 <summary><strong>🛠️ Tech Stack</strong></summary>
 
 ### ☁️ Cloud Platforms & DevOps
@@ -169,39 +169,60 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
-</details>
+</details >
 
-<details>
+<details open >
 <summary><strong>Recent GitHub Activity ✅</strong></summary>
 
 
-<h3 align="center">Git Stats</h3>
+<!-- ---------- Git Stats Section ---------- -->
+<h3 align="center">🚀 Git Stats</h3>
 
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=BHARGAVATEJABORRA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&custom_title=Bhargava's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-  <br>
 
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=BHARGAVATEJABORRA&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=1" 
+    alt="GitHub Streak"
+    height="165" />
+
+  <br/>
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph&v=1" 
+    alt="GitHub Activity Graph" 
+    height="200"/>
+
+  <br/>
+
+  <!-- Two small cards side-by-side -->
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+        <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
+  alt="Top Languages"
+  height="165" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHARGAVATEJABORRA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHARGAVATEJABORRA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHARGAVATEJABORRA&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=AAB1C7&bg_color=0D1117&v=1" 
+          alt="Repos Per Language"
+          height="165" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Bhargava's GitHub stats">
+  <!-- Main stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&v=1" 
+    alt="Bhargava's GitHub Stats"
+    height="180" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARGAVATEJABORRA&theme=highcontrast&hide_border=true">
+  <!-- Profile details card -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARGAVATEJABORRA&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=AAB1C7&bg_color=0D1117&v=1" 
+    alt="Profile Details Card" />
 </div>
 
-
-</details>
