@@ -184,45 +184,31 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img 
     src="https://streak-stats.demolab.com?user=BHARGAVATEJABORRA&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=1" 
     alt="GitHub Streak"
+    height="155" />
+
+  <br/>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
+    alt="Top Languages"
     height="165" />
+
+  <br/>
+
+  <!-- Main GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&v=1" 
+    alt="Bhargava's GitHub Stats"
+    height="180" />
 
   <br/>
 
   <!-- Activity Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph&v=1" 
-    alt="GitHub Activity Graph" 
-    height="200"/>
+    alt="GitHub Activity Graph"
+    width="100%" />
 
-  <br/>
-
-  <!-- Two small cards side-by-side -->
-  <table>
-    <tr>
-      <td>
-        <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
-  alt="Top Languages"
-  height="165" />
-      </td>
-      <td>
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHARGAVATEJABORRA&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=AAB1C7&bg_color=0D1117&v=1" 
-          alt="Repos Per Language"
-          height="165" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Main stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&v=1" 
-    alt="Bhargava's GitHub Stats"
-    height="180" />
-
-  <!-- Profile details card -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARGAVATEJABORRA&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=AAB1C7&bg_color=0D1117&v=1" 
-    alt="Profile Details Card" />
 </div>
 
