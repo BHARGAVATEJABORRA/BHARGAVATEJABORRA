@@ -109,7 +109,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Model%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-==
+
 </p>
 
 ### 🧮 Databases
