@@ -180,11 +180,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=BHARGAVATEJABORRA&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=1" 
-    alt="GitHub Streak"
-    height="155" />
+ 
 
   <br/>
 
