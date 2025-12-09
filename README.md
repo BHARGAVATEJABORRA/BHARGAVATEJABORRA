@@ -11,7 +11,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 </details>
 
-@@ -16,22 +15,19 @@
+
 <details open >
 <summary><strong>📬 Connect with Me</strong></summary>
 
@@ -34,7 +34,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 </details>
 
-@@ -46,124 +42,8 @@
+
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -159,7 +159,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 <p align="middle">
   <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
-@@ -179,31 +59,29 @@
+
 
 <div align="center">
 
