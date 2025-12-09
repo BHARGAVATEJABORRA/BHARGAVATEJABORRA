@@ -36,9 +36,11 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+### ☁️ Cloud Platforms & DevOps
+
+<p/>
 
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
