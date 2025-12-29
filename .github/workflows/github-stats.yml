@@ -2,31 +2,44 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Run every 12 hours
+    - cron: "0 0 * * *"  # Run daily at midnight
   workflow_dispatch:  # Allow manual trigger
   push:
     branches:
       - main
 
 jobs:
-  generate-stats:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          
-      - name: Generate Stats
-        uses: jstrieb/github-stats@master
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pillow
+      
+      - name: Generate stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+        run: |
+          curl -o generate_images.py https://raw.githubusercontent.com/jstrieb/github-stats/master/generate_images.py
+          python generate_images.py
+      
       - name: Commit and push
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add .
-          git diff-index --quiet HEAD || git commit -m "Update GitHub stats"
-          git push
+          git add generated/
+          git diff --staged --quiet || (git commit -m "Update GitHub stats [skip ci]" && git push)
