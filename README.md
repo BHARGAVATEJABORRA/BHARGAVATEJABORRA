@@ -212,15 +212,14 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
     height="180" 
   />
   <br/>
+  
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=BHARGAVATEJABORRA&layout=compact&theme=radical"
+  alt="WakaTime Stats"
+  height="180"
+/>
     
-  <!-- WakaTime Stats -->
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=BHARGAVATEJABORRA"  
-    alt="WakaTime Stats" 
-    height="180" 
-  />
-  <br/>
-
+  
   <!-- Activity Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph&cache_seconds=0&v=1" 
