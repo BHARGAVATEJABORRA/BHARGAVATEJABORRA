@@ -183,7 +183,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radica" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
     alt="Top Languages"
     height="165" />
 
