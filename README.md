@@ -183,7 +183,15 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?usernam
+      
+  <!-- GitHub Profile Summary Cards (jstrieb-style) -->
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARGAVATEJABORRA&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHARGAVATEJABORRA&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHARGAVATEJABORRA&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHARGAVATEJABORRA&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHARGAVATEJABORRA&theme=radical)
+  <br/>e=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
     alt="Top Languages"
     height="165" />
 
