@@ -199,8 +199,16 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
     
   <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=BHARGAVATEJABORRA&theme=radical"  
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=BHARGAVATEJABORRA&show_icons=true&theme=radical"  
     alt="GitHub Streak" 
+    height="180" 
+  />
+  <br/>
+    
+  <!-- WakaTime Stats -->
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=BHARGAVATEJABORRA"  
+    alt="WakaTime Stats" 
     height="180" 
   />
   <br/>
