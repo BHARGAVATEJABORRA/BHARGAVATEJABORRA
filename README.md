@@ -185,6 +185,39 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
     alt="Bhargava's GitHub Stats"
     height="180" />
 
+      <br/>
+
+  <!-- jstrieb GitHub Stats -->
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      alt="GitHub Stats" 
+      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg" 
+    />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      alt="Top Languages" 
+      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg" 
+    />
+  </picture>
+
   <br/>
     
   <!-- GitHub Streak -->
