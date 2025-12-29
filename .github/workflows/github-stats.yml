@@ -37,6 +37,7 @@ jobs:
       git clone https://github.com/jstrieb/github-stats.git
         cd github-stats
         python generate_images.py
+
       - name: Commit and push
         run: |
           git config user.name "GitHub Actions"
