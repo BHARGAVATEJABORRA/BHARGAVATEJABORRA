@@ -190,37 +190,15 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 
 ### 💻 GitHub Profile Stats
-  <!-- jstrieb GitHub Stats -->
-  <picture>
-    <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      alt="GitHub Stats" 
-      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg" 
-    />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      alt="Top Languages" 
-      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg" 
-    />
-  </picture>
-  
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&theme=radical&hide_border=true&cache_seconds=0&v=2"
+  alt="Bhargava's GitHub Stats Detail"
+  height="180" />
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&theme=radical&hide_border=true&cache_seconds=0&v=2"
+  alt="Top Languages"
+  height="180" />  
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <br/>
