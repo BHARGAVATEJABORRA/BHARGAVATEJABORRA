@@ -190,8 +190,37 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 
 ### 💻 GitHub Profile Stats
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&theme=radical&hide_border=true&cache_seconds=0&v=2"
+<picture>
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg#gh-light-mode-only" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    alt="GitHub Stats" 
+    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg" 
+  />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-light-mode-only" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    alt="Top Languages" 
+    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg" 
+  />
+</picture>
+
+**Note:** Top Languagesusername=BHARGAVATEJABORRA&show_icons=true&theme=radical&hide_border=true&cache_seconds=0&v=2"
   alt="Bhargava's GitHub Stats Detail"
   height="180" />
 
