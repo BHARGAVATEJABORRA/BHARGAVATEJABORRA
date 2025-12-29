@@ -169,24 +169,13 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 ----
 
-
-<p align="middle">
-  <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-
-<div align="center">
-
- 
-
   <!-- Main GitHub Stats -->
 
   ## 📊 Stats and Activity
-
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&cache_seconds=0&v=1"
-  alt="Bhargava's GitHub Stats"
-  height="180" />
+  
+<p align="middle">
+  <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
 
 
 ### 💻 GitHub Profile Stats
@@ -220,17 +209,6 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   />
 </picture>
 
-**Note:** Top Languagesusername=BHARGAVATEJABORRA&show_icons=true&theme=radical&hide_border=true&cache_seconds=0&v=2"
-  alt="Bhargava's GitHub Stats Detail"
-  height="180" />
-
-<img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&theme=radical&hide_border=true&cache_seconds=0&v=2"
-  alt="Top Languages"
-  height="180" />  
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <br/>
     
 ### 🔥 Streak Stats
   <!-- GitHub Streak -->
@@ -240,8 +218,8 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 height="180" 
   />
   <br/>
-  
-🔥 Get streak stats for your profile at [git.io/streak-stats](https://git.io/streak-stats)
+
+  **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- Activity Graph -->
   <img 
