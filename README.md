@@ -21,8 +21,10 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <a href="https://www.credly.com/users/borra-bhargava-teja.00b61798" target="_blank"><img src="https://img.shields.io/badge/Credentials-Credly-2B2D42?style=for-the-badge&logo=credly&logoColor=white"/></a>
   <a href="https://github.com/BHARGAVATEJABORRA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
+</details>
 
-### Certifications
+<details open >
+<summary><strong>Certifications</strong></summary>
 
 | Certification | Issuer | Status | Expiration Date |
 | ------------- | ------ | ------ | --------------- |
@@ -34,9 +36,9 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 </details>
 
----
 
-## 🛠️ Tech Stack
+<details open >
+<summary><strong>🛠️ Tech Stack</strong></summary>
 
 ### ☁️ Cloud Platforms & DevOps
 
@@ -167,12 +169,13 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-----
 
   <!-- Main GitHub Stats -->
 
-  ## 📊 Stats and Activity
-  
+</details>
+  <details open >
+<summary><strong>📊 Stats and Activity</strong></summary>
+
 <p align="middle">
   <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
@@ -219,7 +222,6 @@ height="180"
   />
   <br/>
 
-  **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- Activity Graph -->
   <img 
@@ -228,3 +230,4 @@ height="180"
     width="100%" />
 
 </div>
+</details>
