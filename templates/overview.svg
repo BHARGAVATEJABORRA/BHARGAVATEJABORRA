@@ -1,0 +1,8 @@
+
+{{ name }}'s GitHub Statistics
+Stars	{{ stars }}
+Forks	{{ forks }}
+All-time contributions	{{ contributions }}
+Lines of code changed	{{ lines_changed }}
+Repository views (past two weeks)	{{ views }}
+Repositories with contributions	{{ repos }}
