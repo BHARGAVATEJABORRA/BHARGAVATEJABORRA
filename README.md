@@ -179,24 +179,6 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
  
 
-  <br/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?usernam
-      
-  <!-- GitHub Profile Summary Cards (jstrieb-style) -->
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHARGAVATEJABORRA&theme=radical)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHARGAVATEJABORRA&theme=radical)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHARGAVATEJABORRA&theme=radical)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHARGAVATEJABORRA&theme=radical)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHARGAVATEJABORRA&theme=radical)
-  <br/>e=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
-    alt="Top Languages"
-    height="165" />
-
-  <br/>
-
   <!-- Main GitHub Stats -->
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&cache_seconds=0&v=1" 
@@ -212,13 +194,6 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
     height="180" 
   />
   <br/>
-  
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=BHARGAVATEJABORRA&layout=compact&theme=radical"
-  alt="WakaTime Stats"
-  height="180"
-/>
-    
   
   <!-- Activity Graph -->
   <img 
