@@ -183,7 +183,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&langs_count=8&hide_border=true&theme=radical" 
     alt="Top Languages"
     height="165" />
 
@@ -191,15 +191,23 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
   <!-- Main GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&v=1" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&cache_seconds=0&v=1" 
     alt="Bhargava's GitHub Stats"
     height="180" />
 
   <br/>
+    
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BHARGAVATEJABORRA&theme=radical"  
+    alt="GitHub Streak" 
+    height="180" 
+  />
+  <br/>
 
   <!-- Activity Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph&v=1" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph&cache_seconds=0&v=1" 
     alt="GitHub Activity Graph"
     width="100%" />
 
