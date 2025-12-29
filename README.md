@@ -185,7 +185,6 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
     alt="Bhargava's GitHub Stats"
     height="180" />
 
-      <br/>
 
   <!-- jstrieb GitHub Stats -->
   <picture>
