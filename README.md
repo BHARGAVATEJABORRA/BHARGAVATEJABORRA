@@ -208,8 +208,8 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)"
     />
     <img 
       alt="Top Languages" 
