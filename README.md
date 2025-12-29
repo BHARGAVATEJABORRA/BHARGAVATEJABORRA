@@ -180,12 +180,13 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
  
 
   <!-- Main GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&cache_seconds=0&v=1" 
-    
-## 📊 Stats and Activity
-    alt="Bhargava's GitHub Stats"
-    height="180" />
+
+  ## 📊 Stats and Activity
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=AAB1C7&icon_color=C778DD&cache_seconds=0&v=1"
+  alt="Bhargava's GitHub Stats"
+  height="180" />
 
 
 ### 💻 GitHub Profile Stats
@@ -224,11 +225,11 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
   <br/>
     
+### 🔥 Streak Stats
   <!-- GitHub Streak -->
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/streak?username=BHARGAVATEJABORRA&show_icons=true&theme=radical"  
     alt="GitHub Streak" 
-    ### 🔥 Streak Stats
 height="180" 
   />
   <br/>
