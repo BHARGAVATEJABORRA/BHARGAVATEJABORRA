@@ -34,12 +34,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -o generate_images.py https://raw.githubusercontent.com/jstrieb/github-stats/master/generate_images.py
-          python generate_images.py
-      
+      git clone https://github.com/jstrieb/github-stats.git
+        cd github-stats
+        python generate_images.py
       - name: Commit and push
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add generated/
+          cp -r github-stats/generated .
+        git add generated/
           git diff --staged --quiet || (git commit -m "Update GitHub stats [skip ci]" && git push)
