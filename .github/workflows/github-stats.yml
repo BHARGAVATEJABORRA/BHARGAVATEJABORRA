@@ -29,8 +29,8 @@ jobs:
       - name: Run stats generator
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              run: |
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
           python github_stats.py
           python generate_images.py
 
