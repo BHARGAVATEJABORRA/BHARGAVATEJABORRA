@@ -177,38 +177,82 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 <summary><strong>📊 Stats and Activity</strong></summary>
 
 <p align="middle">
-  <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-
-### 💻 GitHub Profile Stats
+  <im### 💻 GitHub Profile Stats
 <picture>
   <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-dark-mode-only" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg#gh-light-mode-only" 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-light-mode-only" 
     media="(prefers-color-scheme: light)"
   />
   <img 
     alt="GitHub Stats" 
-    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/overview.svg" 
+    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg" 
   />
 </picture>
 
 <picture>
   <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-dark-mode-only" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg#gh-light-mode-only" 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-light-mode-only" 
     media="(prefers-color-scheme: light)"
   />
   <img 
     alt="Top Languages" 
-    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/github-stats/master/generated/languages.svg" 
+    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg" 
+  />
+</picture>💻 GitHub Profile Stats
+<picture>
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-dark-mode-only" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-light-mode-only" 
+    media="(prefers-color-scheme: light)"
+  />
+  <im  <img 
+    alt="GitHub Stats" 
+    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg" 
+  />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-dark-mode-only" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-light-mode-only" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    alt="Top Languages" 
+    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg" 
+  />
+</picture>
+    alt="GitHub Stats" 
+    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg" 
+  />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-dark-mode-only" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-light-mode-only" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    alt="Top Languages" 
+    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg" 
   />
 </picture>
 
