@@ -158,8 +158,6 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-</details>
-
 <details open>
   <summary><strong>📊 Stats and Activity</strong></summary>
 
@@ -169,16 +167,17 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&hide_border=true&theme=radical"
       alt="GitHub Stats"
-      height="165"
+      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&hide_border=true&theme=radical"
       alt="Top Languages"
-      height="165"
+      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg"
     />
   </p>
+
+</details>
+
 
   <h3>🔥 Streak Stats</h3>
   <p align="center">
