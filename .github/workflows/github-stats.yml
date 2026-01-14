@@ -3,9 +3,7 @@ name: Profile Stats (SVG)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # daily
-  push:
-    branches: ["main"]
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -19,36 +17,43 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # OVERVIEW SVG
       - name: Generate overview.svg
         uses: lowlighter/metrics@latest
         with:
-          # Works with GITHUB_TOKEN for most profiles.
-          # If you ever hit rate limits, create a fine-grained PAT and store as METRICS_TOKEN.
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_branchbranch: main
-          committer_branch: main
+          user: BHARGAVATEJABORRA
 
-          filename: generated/overview.svg
+          # Recommended: create a fine-grained PAT and save it as METRICS_TOKEN.
+          # If you don't have it yet, this fallback will still try to use GITHUB_TOKEN.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+
+          # Use GITHUB_TOKEN for committing to the repo
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update ${filename} [Skip GitHub Action]"
+
           template: classic
           base: header, activity, community, repositories, metadata
+          config_output: svg
+          filename: generated/overview.svg
 
-          # Fail if something goes wrong (so you know)
-          plugin_errors_fatal: yes
+          # Correct input name (plural!)
+          plugins_errors_fatal: yes
           verify: yes
 
-      # LANGUAGES SVG
       - name: Generate languages.svg
         uses: lowlighter/metrics@latest
         with:
+          user: BHARGAVATEJABORRA
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_branch: main
 
-          filename: generated/languages.svg
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update ${filename} [Skip GitHub Action]"
+
           template: classic
           base: ""
+          config_output: svg
+          filename: generated/languages.svg
 
           plugin_languages: yes
           plugin_languages_sections: most-used
@@ -57,5 +62,5 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_languages_other: yes
 
-          plugin_errors_fatal: yes
+          plugins_errors_fatal: yes
           verify: yes
