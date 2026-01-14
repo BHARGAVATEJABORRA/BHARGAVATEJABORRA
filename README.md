@@ -1,19 +1,17 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&repeat=false&width=435&lines=Bhargava+Teja+Borra" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=4169E1&repeat=true&width=700&height=45&vCenter=true&size=24&lines=Software+Engineer+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI;Infrastructure+as+Code+with+Terraform+%26+Ansible;Securing+Cloud+with+IAM+%26+Encryption;Certified+Cloud+Professional+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
-<details open >
-<summary><strong>👋 About Me</strong></summary>
+<details open>
+  <summary><strong>👋 About Me</strong></summary>
 
 I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **Cloud**. I specialize in infrastructure automation, DevOps, and cloud security. Passionate about building scalable cloud solutions that make a difference.
 
 </details>
 
-
-<details open >
-<summary><strong>📬 Connect with Me</strong></summary>
+<details open>
+  <summary><strong>📬 Connect with Me</strong></summary>
 
 <p align="center">
   <a href="mailto:bhargavateja.borra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -23,8 +21,8 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 </p>
 </details>
 
-<details open >
-<summary><strong>Certifications</strong></summary>
+<details open>
+  <summary><strong>Certifications</strong></summary>
 
 | Certification | Issuer | Status | Expiration Date |
 | ------------- | ------ | ------ | --------------- |
@@ -36,34 +34,28 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
 </details>
 
-
-<details open >
-<summary><strong>🛠️ Tech Stack</strong></summary>
+<details open>
+  <summary><strong>🛠️ Tech Stack</strong></summary>
 
 ### ☁️ Cloud Platforms & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
 
-<p/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=awsiam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/OCI-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=azureappservice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=azurefunctions&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=awsiam&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=azureappservice&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=azurefunctions&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
-
-
 
 ### 🔄 Infrastructure as Code & Automation
 <p>
@@ -116,7 +108,6 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Model%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-
 </p>
 
 ### 🧮 Databases
@@ -135,12 +126,10 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/REST-FF6F00?style=for-the-badge&logo=rest&logoColor=white"/>
-
 </p>
 
 ### 🧪 Testing & Monitoring
@@ -169,61 +158,42 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-
-  <!-- Main GitHub Stats -->
-
 </details>
-  <details open >
-<summary><strong>📊 Stats and Activity</strong></summary>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<details open>
+  <summary><strong>📊 Stats and Activity</strong></summary>
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      alt="GitHub Stats" 
-      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg" 
-    />
-  </picture>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&label=Profile%20Views&color=4169E1&style=flat-square" alt="Profile Views" />
+  </p>
 
-  <picture>
-    <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)"
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&hide_border=true&theme=radical"
+      alt="GitHub Stats"
+      height="165"
     />
-    <source 
-      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)"
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&hide_border=true&theme=radical"
+      alt="Top Languages"
+      height="165"
     />
-    <img 
-      alt="Top Languages" 
-      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg" 
-    />
-  </picture>
-</p>
+  </p>
 
-### 🔥 Streak Stats
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=BHARGAVATEJABORRA&show_icons=true&theme=radical"  
-    alt="GitHub Streak" 
-    height="180" 
-  />
-  <br/>
+  <h3>🔥 Streak Stats</h3>
+  <p align="center">
+    <img
+      src="https://streak-stats.demolab.com?user=BHARGAVATEJABORRA&theme=radical&hide_border=true"
+      alt="GitHub Streak"
+      height="180"
+    />
+  </p>
 
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph&cache_seconds=0&v=1" 
-    alt="GitHub Activity Graph"
-    width="100%" 
+  <p align="center">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph"
+      alt="Activity Graph"
+    />
+  </p>
+
 </details>
