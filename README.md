@@ -176,102 +176,54 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <details open >
 <summary><strong>📊 Stats and Activity</strong></summary>
 
-<p align="middle">
-  <im### 💻 GitHub Profile Stats
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    alt="GitHub Stats" 
-    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg" 
-  />
-</picture>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BHARGAVATEJABORRA&color=4169E1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    alt="Top Languages" 
-    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg" 
-  />
-</picture>💻 GitHub Profile Stats
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)"
-  />
-  <im  <img 
-    alt="GitHub Stats" 
-    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg" 
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      alt="GitHub Stats" 
+      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg" 
+    />
+  </picture>
 
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    alt="Top Languages" 
-    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg" 
-  />
-</picture>
-    alt="GitHub Stats" 
-    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg" 
-  />
-</picture>
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      alt="Top Languages" 
+      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg" 
+    />
+  </picture>
+</p>
 
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-dark-mode-only" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg#gh-light-mode-only" 
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    alt="Top Languages" 
-    src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg" 
-  />
-</picture>
-
-    
 ### 🔥 Streak Stats
   <!-- GitHub Streak -->
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/streak?username=BHARGAVATEJABORRA&show_icons=true&theme=radical"  
     alt="GitHub Streak" 
-height="180" 
+    height="180" 
   />
   <br/>
 
-  
   <!-- Activity Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph&cache_seconds=0&v=1" 
     alt="GitHub Activity Graph"
-    width="100%" />
-
-</div>
+    width="100%" 
 </details>
