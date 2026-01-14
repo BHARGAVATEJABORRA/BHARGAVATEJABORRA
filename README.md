@@ -175,8 +175,8 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
       src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg"
     />
   </p>
-
 </details>
+
 
 
   <h3>🔥 Streak Stats</h3>
