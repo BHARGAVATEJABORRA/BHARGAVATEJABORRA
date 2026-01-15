@@ -168,20 +168,21 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
     />
   </p>
 
-  <p align="center">
-    <!-- Colourful GitHub stats card -->
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&hide_border=true&theme=radical"
-      alt="GitHub Stats"
-      height="165"
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" 
+                                                               
+src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BHARGAVATEJABORRA&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"
+/>
+</
+  a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" 
+                                                                 
+ src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"
     />
-    <!-- Colourful top languages card -->
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&hide_border=true&theme=radical"
-      alt="Most Used Languages"
-      height="165"
-    />
-  </p>
+       </
+          a>
+  <br/>
+
 
   <h3>🔥 Streak Stats</h3>
   <p align="center">
