@@ -158,8 +158,7 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-<details 
-  open>
+<details open>
   <summary><strong>📊 Stats and Activity</strong></summary>
 
   <p align="center">
@@ -170,31 +169,29 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
   </p>
 
   <p align="center">
-    <!-- GitHub Stats card -->
+    <!-- Colourful GitHub stats card -->
     <img
-      src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&hide_border=true&theme=oceanic-next"
+      src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&hide_border=true&theme=radical"
       alt="GitHub Stats"
       height="165"
     />
-    <!-- Most-used languages card -->
+    <!-- Colourful top languages card -->
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&hide_border=true&theme=oceanic-next"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&hide_border=true&theme=radical"
       alt="Most Used Languages"
       height="165"
     />
   </p>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3>🔥 Streak Stats</h3>
   <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img
-        src="https://streak-stats.demolab.com?user=BHARGAVATEJABORRA&theme=oceanic-next&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
-        alt="GitHub Streak"
-      />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BHARGAVATEJABORRA&theme=oceanic-next&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" 
+  />
+    </
+      a>
   </p>
 
-  <!-- Activity graph -->
+  <h3>📈 Activity Graph</h3>
   <p align="center">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=BHARGAVATEJABORRA&bg_color=0D1117&color=58A6FF&line=C778DD&point=FFFFFF&area=true&hide_border=true&custom_title=Bhargava%27s%20Activity%20Graph"
