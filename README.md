@@ -167,17 +167,16 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
 
   <p align="center">
     <img
+      src="https://github-readme-stats.vercel.app/api?username=BHARGAVATEJABORRA&show_icons=true&hide_border=true&theme=radical"
       alt="GitHub Stats"
-      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/overview.svg"
+      height="165"
     />
     <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVATEJABORRA&layout=compact&hide_border=true&theme=radical"
       alt="Top Languages"
-      src="https://raw.githubusercontent.com/BHARGAVATEJABORRA/BHARGAVATEJABORRA/main/generated/languages.svg"
+      height="165"
     />
   </p>
-</details>
-
-
 
   <h3>🔥 Streak Stats</h3>
   <p align="center">
@@ -194,5 +193,4 @@ I'm **Bhargava Teja Borra**, a **Software Engineer** with strong expertise in **
       alt="Activity Graph"
     />
   </p>
-
 </details>
